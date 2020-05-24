@@ -1,2 +1,2 @@
 # Java_Script_Projects
-This repository includes my Java Script  projects.
+This is a simple project in you have to give birth year and website will give you your age in days.
